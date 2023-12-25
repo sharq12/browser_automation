@@ -2,8 +2,8 @@ const puppeteer = require("puppeteer");
 const solutionObj = require("./solution");
 const url = "https://www.hackerrank.com/auth/login";
 let page;
-const email = "retega7409@visignal.com";
-const password = "John123@";
+const email = "";
+const password = "";
 console.log("before");
 
 // function to perform wait and click 
